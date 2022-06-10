@@ -1,0 +1,631 @@
+16:58:20.658	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\kernel32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\KERNELBASE.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\Sessions\1\Windows\SharedSection	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\Sessions\1\Windows\ApiPort	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\PSAPI.DLL	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_DummyEvent_7236	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\C:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume2	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume2	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\D:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume3	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume3	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\E:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume4	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume4	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\F:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume5	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume5	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\G:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume7	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume7	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\H:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume8	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume8	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\I:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume9	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume9	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\J:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume10	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume10	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\K:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\CdRom1	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\CdRom1	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\M:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume6	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume6	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\N:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\CdRom0	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\CdRom0	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\P:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume12	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume12	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\GLOBAL??\Q:	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\HarddiskVolume11	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Drive (U)		\Device\HarddiskVolume11	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_VCM_Mutex	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SboxSession	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\IMAGEHLP.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\MSVCRT.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\advapi32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\rpcrt4.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\CRYPT32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\MSASN1.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\WINTRUST.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\user32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\gdi32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\LPK.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\USP10.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\ole32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		*:\program files\daum\potplayer\potplayermini64.exe	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\ntdll.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\kernel32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\kernelbase.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\program files\sandboxie-plus\sbiedll.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\psapi.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\imagehlp.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\msvcrt.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\advapi32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\sechost.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\rpcrt4.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\crypt32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\msasn1.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\wintrust.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\user32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc / ??????????? (U)		\RPC Control\epmapper	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\gdi32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\lpk.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\usp10.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\ole32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\MSCTF.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\imm32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\msctf.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_RpcSs	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\cryptbase.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\KsecDD	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Pipe / Pipe (U)		\Device\KsecDD	
+16:58:20.808	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\kernel32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\SHELL32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc (D)	Open 	\KnownDlls\SHLWAPI.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\shell32.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\shlwapi.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\uxtheme.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Ipc / ??????????? (U)	Open (2) 	\ThemeApiPort	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\tools\rbtray\rbhook.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\cryptsp.dll	
+16:58:20.808	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\KERNELBASE.dll	
+16:58:20.808	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\rsaenh.dll	
+16:58:20.808	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\Sessions\1\Windows\SharedSection	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\Sessions\1\Windows\ApiPort	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\PSAPI.DLL	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_DummyEvent_7448	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\C:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume2	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume2	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\D:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume3	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume3	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\E:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume4	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume4	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\F:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume5	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume5	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\G:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume7	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume7	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\H:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume8	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume8	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\I:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume9	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume9	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\J:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume10	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume10	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\K:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\CdRom1	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\CdRom1	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\M:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume6	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume6	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\N:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\CdRom0	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\CdRom0	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\P:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume12	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume12	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\GLOBAL??\Q:	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device\HarddiskVolume11	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Device	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Drive (U)		\Device\HarddiskVolume11	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_VCM_Mutex	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\WS2_32.dll	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\MSVCRT.dll	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\rpcrt4.dll	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\NSI.dll	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\advapi32.dll	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\user32.dll	
+16:58:20.818	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\gdi32.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\LPK.dll	
+16:58:20.828	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device\KsecDD	
+16:58:20.828	PotPlayerMini64.exe	7236	1328	Ipc (U)		\Device	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\USP10.dll	
+16:58:20.828	PotPlayerMini64.exe	7236	1328	Pipe / Pipe (U)		\Device\KsecDD	
+16:58:20.828	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\ncrypt.dll	
+16:58:20.828	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\bcrypt.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		*:\program files\sandboxie-plus\sandboxierpcss.exe	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\ntdll.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\kernel32.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\kernelbase.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\program files\sandboxie-plus\sbiedll.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\psapi.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\ws2_32.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\msvcrt.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\rpcrt4.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\nsi.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\advapi32.dll	
+16:58:20.828	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\bcryptprimitives.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\sechost.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\user32.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Ipc / ??????????? (U)		\RPC Control\epmapper	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\gdi32.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\lpk.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\usp10.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Ipc (D)	Open 	\KnownDlls\MSCTF.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\imm32.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\msctf.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll	
+16:58:20.828	SandboxieRpcSs.exe	7448	4400	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_Mutex1	
+16:58:20.838	SandboxieRpcSs.exe	7448	6956	Image (U)		c:\windows\system32\sxs.dll	
+16:58:20.838	SandboxieRpcSs.exe	7448	6956	Ipc (D)	Open 	\KnownDlls\ole32.dll	
+16:58:20.838	SandboxieRpcSs.exe	7448	6956	Image (U)		c:\windows\system32\ole32.dll	
+16:58:20.838	SandboxieRpcSs.exe	7448	6956	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:20.838	SandboxieRpcSs.exe	7448	6956	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_RPCSS_SXS_READY	
+16:58:20.900	SandboxieRpcSs.exe	7448	4400	Ipc (U)		\Sessions\1\BaseNamedObjects\Global\ComPlusCOMRegTable	
+16:58:20.900	SandboxieRpcSs.exe	7448	4400	Ipc (D)		\Sessions\1\BaseNamedObjects\ComPlusCOMRegTable	
+16:58:20.900	SandboxieRpcSs.exe	7448	4400	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_RpcEptMapper	
+16:58:20.900	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\rpcepmap.dll	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Image (U)		c:\windows\system32\rpcrtremote.dll	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\GLOBAL??\NDIS	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\Ndis	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\Ndis	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\{553EE734-1D14-46DF-BF18-55D241263BAC}	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP16	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP16	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\{71F897D7-EB7C-4D8D-89DB-AC80D9DD2270}	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP15	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP15	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\{DF4A9D2C-8742-4EB1-8703-D395C4183F33}	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP14	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP14	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\{8E301A52-AFFA-4F49-B9CA-C79096A1A056}	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP13	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP13	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NdisWanIpv6	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP12	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP12	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NdisWanIp	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP11	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP11	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NdisWanBh	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP10	
+16:58:20.900	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP10	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\{E43D242B-9EAB-4626-A952-46649FBB939A}	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP9	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\{3A5D2E7A-BD12-4B41-88B5-0F9D3C80AAF5}	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP8	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP8	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\{3FAC5926-9BC3-4CD2-8632-B60C79479010}	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device\NDMP7	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)		\Device	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Pipe / Pipe (U)		\Device\NDMP7	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Image (U)		c:\windows\system32\secur32.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Image (U)		c:\windows\system32\sspicli.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Image (U)		c:\windows\system32\cryptsp.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)	Open (2) 	\Security\LSA_AUTHENTICATION_INITIALIZED	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc / ??????????? (U)	Open (2) 	\RPC Control\lsasspirpc	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Image (U)		c:\windows\system32\credssp.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (U)	(2) 	\RPC Control\epmapper	
+16:58:20.901	SandboxieRpcSs.exe	7448	3348	Ipc (D)		\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_RpcEptMapper	
+16:58:20.901	SandboxieRpcSs.exe	7448	4400	Image (U)		c:\windows\system32\rpcss.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	WinClass (U)		Sandboxie_DDE_ProxyClass1	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Ipc / ??????????? (U)	Open (2) 	\RPC Control\lsapolicylookup	
+16:58:20.901	SandboxieRpcSs.exe	7448	6636	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SboxSession	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Ipc (D)	Open 	\KnownDlls\SHELL32.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Ipc (D)	Open 	\KnownDlls\SHLWAPI.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Image (U)		c:\windows\system32\shell32.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Image (U)		c:\windows\system32\shlwapi.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Ipc (U)	(4) 	\Sessions\1\BaseNamedObjects\windows_shell_global_counters	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Image (U)		c:\windows\system32\uxtheme.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Image (U)		c:\windows\system32\cryptsp.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Ipc / ??????????? (U)	Open (2) 	\ThemeApiPort	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Image (U)		c:\windows\system32\dwmapi.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Ipc (D)	Open 	\KnownDlls\OLEAUT32.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Image (U)		c:\windows\system32\propsys.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	Image (U)		c:\windows\system32\oleaut32.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Image (U)		c:\windows\system32\rsaenh.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	6564	WinClass (U)	Open (4) 	Shell_TrayWnd	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Image (U)		c:\windows\system32\cryptbase.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Ipc (U)		\Device\KsecDD	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Ipc (U)		\Device	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Pipe / Pipe (U)		\Device\KsecDD	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Ipc / ??????????? (U)		\RPC Control\actkernel	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_DcomLaunch	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	File (U)	Closed (2) 	\Device\HarddiskVolume2\Windows\system32\apphelp.dll	
+16:58:20.901	SandboxieRpcSs.exe	7448	4516	Debug (U)	Trace 		CreateProcess: C:\Program Files\Sandboxie-Plus\SandboxieDcomLaunch.exe ("C:\Program Files\Sandboxie-Plus\SandboxieDcomLaunch.exe"); err=0
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\kernel32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\KERNELBASE.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\Sessions\1\Windows\SharedSection	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\Sessions\1\Windows\ApiPort	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\PSAPI.DLL	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_DummyEvent_6760	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\C:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume2	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume2	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\D:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume3	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume3	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\E:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume4	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume4	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\F:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume5	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume5	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\G:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume7	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume7	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\H:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume8	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume8	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\I:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume9	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume9	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\J:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume10	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume10	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\K:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\CdRom1	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\CdRom1	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\M:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume6	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume6	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\N:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\CdRom0	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\CdRom0	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\P:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume12	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume12	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\GLOBAL??\Q:	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device\HarddiskVolume11	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)		\Device	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Drive (U)		\Device\HarddiskVolume11	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_VCM_Mutex	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SboxSession	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\advapi32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\MSVCRT.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\rpcrt4.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\user32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\gdi32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\LPK.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\USP10.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		*:\program files\sandboxie-plus\sandboxiedcomlaunch.exe	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\ntdll.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\kernel32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\kernelbase.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\program files\sandboxie-plus\sbiedll.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\psapi.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\advapi32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\msvcrt.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\sechost.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\rpcrt4.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\user32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc / ??????????? (U)		\RPC Control\epmapper	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\gdi32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\lpk.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\usp10.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Ipc (D)	Open 	\KnownDlls\MSCTF.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\imm32.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\msctf.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\rpcss.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	5176	Image (U)		c:\windows\system32\sspicli.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Ipc / ??????????? (U)	Open (2) 	\RPC Control\lsapolicylookup	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Image (U)		c:\windows\system32\cryptsp.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Ipc (U)	Open (2) 	\Security\LSA_AUTHENTICATION_INITIALIZED	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Ipc / ??????????? (U)	Open (2) 	\RPC Control\lsasspirpc	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Image (U)		c:\windows\system32\credssp.dll	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Ipc (U)	(2) 	\RPC Control\actkernel	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Ipc (U)		\Sessions\1\BaseNamedObjects\Global\__ComCatalogCache__	
+16:58:20.901	SandboxieDcomLaunch.exe	6760	448	Ipc (D)		\Sessions\1\BaseNamedObjects\__ComCatalogCache__	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	448	Image (U)		c:\windows\system32\rpcrtremote.dll	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	448	Ipc / ??????????? (U)	(2) 	\RPC Control\epmapper	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	448	Ipc (D)		\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_DcomLaunch	
+16:58:21.082	SandboxieRpcSs.exe	7448	4516	Ipc (D)		\RPC Control\actkernel	
+16:58:21.082	SandboxieRpcSs.exe	7448	4516	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\ScmCreatedEvent	
+16:58:21.082	SandboxieRpcSs.exe	7448	4516	Ipc (D)		\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_RpcSs	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	5020	Ipc (U)		\Sessions\1\BaseNamedObjects\Global\RotHintTable	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	5020	Ipc (D)		\Sessions\1\BaseNamedObjects\RotHintTable	
+16:58:21.082	PotPlayerMini64.exe	7236	6572	Ipc (D)		\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_DcomLaunch	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	5020	Ipc (U)		\Sessions\1\BaseNamedObjects\Global\{A3BD3259-3E4F-428a-84C8-F0463A9D3EB5}	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	5020	Ipc (D)		\Sessions\1\BaseNamedObjects\{A3BD3259-3E4F-428a-84C8-F0463A9D3EB5}	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	5020	Ipc (U)		\Sessions\1\BaseNamedObjects\Global\{A64C7F33-DA35-459b-96CA-63B51FB0CDB9}	
+16:58:21.082	SandboxieDcomLaunch.exe	6760	5020	Ipc (D)		\Sessions\1\BaseNamedObjects\{A64C7F33-DA35-459b-96CA-63B51FB0CDB9}	
+16:58:21.082	PotPlayerMini64.exe	7236	1328	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_cryptsvc	
+16:58:21.082	PotPlayerMini64.exe	7236	1328	SCM (U)			StartBoxedService; name: 'cryptsvc'
+16:58:21.082	PotPlayerMini64.exe	7236	1328	SCM (U)			SetServiceStatus; status: <00000002>
+16:58:21.082	PotPlayerMini64.exe	7236	1328	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_VCM_Mutex	
+16:58:21.082	PotPlayerMini64.exe	7236	1328	Ipc (U)	Open (2) 	\Sessions\1\BaseNamedObjects\DBWinMutex	
+16:58:21.082	PotPlayerMini64.exe	7236	1328	Ipc (D)		\Sessions\1\BaseNamedObjects\SBIE_VCM_Mutex	
+16:58:21.082	PotPlayerMini64.exe	7236	1328	Image (U)		c:\windows\system32\apphelp.dll	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\kernel32.dll	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\KERNELBASE.dll	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (D)	Open 	\Sessions\1\Windows\SharedSection	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (D)	Open 	\Sessions\1\Windows\ApiPort	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\PSAPI.DLL	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_DummyEvent_4236	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\C:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume2	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume2	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\D:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume3	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume3	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\E:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume4	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume4	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\F:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume5	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume5	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\G:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume7	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume7	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\H:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume8	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume8	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\I:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume9	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume9	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\J:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume10	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume10	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\K:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\CdRom1	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\CdRom1	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\M:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume6	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume6	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\N:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\CdRom0	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\CdRom0	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\P:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume12	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume12	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\GLOBAL??\Q:	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device\HarddiskVolume11	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (U)		\Device	
+16:58:21.082	WerFault.exe	4236	7764	Drive (U)		\Device\HarddiskVolume11	
+16:58:21.082	WerFault.exe	4236	7764	Ipc (D)		\Sessions\1\BaseNamedObjects\SBIE_VCM_Mutex	
+16:58:25.989	WerFault.exe	4236	7764	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:25.989	SandboxieRpcSs.exe	7448	6956	Ipc (D)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_VCM_Mutex	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SboxSession	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\advapi32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\MSVCRT.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\rpcrt4.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\user32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\gdi32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\LPK.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\USP10.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\ole32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\OLEAUT32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\SHLWAPI.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\IMM32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\MSCTF.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		*:\windows\system32\werfault.exe	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\ntdll.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\kernel32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\kernelbase.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\program files\sandboxie-plus\sbiedll.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\psapi.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\advapi32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\msvcrt.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\sechost.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\rpcrt4.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\user32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc / ??????????? (U)		\RPC Control\epmapper	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\gdi32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\lpk.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\usp10.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\ole32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\oleaut32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\shlwapi.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\imm32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\msctf.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\wer.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.24483_none_e372d88f30fbb845\comctl32.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\faultrep.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_RpcSs	
+16:58:36.040	WerFault.exe	4236	7936	Ipc (D)		\Sessions\1\BaseNamedObjects\SBIE_BOXED_ServiceInitComplete_DcomLaunch	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\uxtheme.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc / ??????????? (U)	Open (2) 	\ThemeApiPort	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\version.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (U)		\Sessions\1\BaseNamedObjects\Local\WERReportingForProcess7236	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (D)		\Sessions\1\BaseNamedObjects\WERReportingForProcess7236	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\dbgeng.dll	
+16:58:36.040	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\dbghelp.dll	
+16:58:36.040	WerFault.exe	4236	7764	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\DbgEngEvent_0000108C	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\WINXP	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\pri	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Sandbox\Basti_2\MediaPlayer\drive\C\Windows\system32\"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe" 	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\AMD APP\bin\x86	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI\ATI.ACE\Core-Static	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\MKVtoolnix	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\WINXP	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\pri	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Sandbox\Basti_2\MediaPlayer\drive\C\Windows\system32\"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe" 	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\AMD APP\bin\x86	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI\ATI.ACE\Core-Static	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\MKVtoolnix	
+16:58:36.070	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\WINXP	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\pri	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Sandbox\Basti_2\MediaPlayer\drive\C\Windows\system32\"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe" 	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\AMD APP\bin\x86	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI\ATI.ACE\Core-Static	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\MKVtoolnix	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\WINXP	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext	
+16:58:36.080	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\pri	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Sandbox\Basti_2\MediaPlayer\drive\C\Windows\system32\"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe" 	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\AMD APP\bin\x86	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI\ATI.ACE\Core-Static	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\MKVtoolnix	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\WINXP	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.090	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\pri	
+16:58:36.100	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Windows\System32\winext\arcade	
+16:58:36.100	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Sandbox\Basti_2\MediaPlayer\drive\C\Windows\system32\"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe" 	
+16:58:36.100	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\AMD APP\bin\x86	
+16:58:36.100	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI\ATI.ACE\Core-Static	
+16:58:36.100	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static	
+16:58:36.100	WerFault.exe	4236	7764	Ipc (U)		\??\C:\Program Files (x86)\MKVtoolnix	
+16:58:36.130	WerFault.exe	4236	7764	Ipc (U)		\Sessions\1\BaseNamedObjects\Global\??	
+16:58:36.130	WerFault.exe	4236	7764	Ipc (D)		\Sessions\1\BaseNamedObjects\??	
+16:58:36.130	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\sensapi.dll	
+16:58:36.130	WerFault.exe	4236	7764	Ipc / ??????????? (U)	Open (2) 	\RPC Control\senssvc	
+16:58:36.130	WerFault.exe	4236	7764	Ipc (U)	Open (2) 	\KernelObjects\MemoryErrors	
+16:58:36.130	WerFault.exe	4236	7764	Ipc (D)	Open 	$:explorer.exe	
+16:58:36.140	WerFault.exe	4236	5488	Ipc (U)	Open (4) 	\KernelObjects\MemoryErrors	
+16:58:36.140	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\winhttp.dll	
+16:58:36.140	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\webio.dll	
+16:58:36.140	WerFault.exe	4236	5488	Ipc (D)	Open 	\KnownDlls\WS2_32.dll	
+16:58:36.140	WerFault.exe	4236	5488	Ipc (D)	Open 	\KnownDlls\NSI.dll	
+16:58:36.140	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\ws2_32.dll	
+16:58:36.140	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\nsi.dll	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\sspicli.dll	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\cryptsp.dll	
+16:58:36.150	WerFault.exe	4236	5488	Ipc (U)	Open (2) 	\Security\LSA_AUTHENTICATION_INITIALIZED	
+16:58:36.150	WerFault.exe	4236	5488	Ipc / ??????????? (U)	Open (2) 	\RPC Control\lsasspirpc	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\credssp.dll	
+16:58:36.150	WerFault.exe	4236	5488	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\mswsock.dll	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\wshtcpip.dll	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\wship6.dll	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\iphlpapi.dll	
+16:58:36.150	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\winnsi.dll	
+16:58:36.150	WerFault.exe	4236	5488	Ipc (U)		\GLOBAL??\Nsi	
+16:58:36.150	WerFault.exe	4236	5488	Pipe (U)	Closed (2) 	\Device\Nsi	
+16:58:36.160	WerFault.exe	4236	4696	Image (U)		c:\windows\system32\cryptbase.dll	
+16:58:36.160	WerFault.exe	4236	4696	Ipc (U)		\Device\KsecDD	
+16:58:36.160	WerFault.exe	4236	4696	Ipc (U)		\Device	
+16:58:36.160	WerFault.exe	4236	4696	Pipe / Pipe (U)		\Device\KsecDD	
+16:58:36.160	WerFault.exe	4236	4696	Ipc (U)		\GLOBAL??\Nsi	
+16:58:36.160	WerFault.exe	4236	4696	Pipe (U)	Closed (2) 	\Device\Nsi	
+16:58:36.160	WerFault.exe	4236	3360	Ipc / ??????????? (U)	Open (2) 	\RPC Control\SbieSvcPort	
+16:58:36.160	WerFault.exe	4236	5488	Ipc / ??????????? (U)	Open (2) 	\RPC Control\LRPC-804dd81c8438911052	
+16:58:36.190	WerFault.exe	4236	5488	Image (U)		c:\windows\system32\dnsapi.dll	
+16:58:36.190	WerFault.exe	4236	5488	Ipc / ??????????? (U)	Open (2) 	\RPC Control\DNSResolver	
+16:58:36.190	WerFault.exe	4236	3680	Ipc (U)		\Device\Afd\Endpoint	
+16:58:36.190	WerFault.exe	4236	3680	Ipc (U)		\Device\Afd	
+16:58:36.190	WerFault.exe	4236	3680	Ipc (U)		\Device	
+16:58:36.190	WerFault.exe	4236	3680	Pipe / Pipe (U)	Closed 	\Device\Afd	
+16:58:36.190	WerFault.exe	4236	3680	Ipc (U)		\Device\Afd\Endpoint	
+16:58:36.190	WerFault.exe	4236	3680	Ipc (U)		\Device\Afd	
+16:58:36.190	WerFault.exe	4236	3680	Ipc (U)		\Device	
+16:58:36.190	WerFault.exe	4236	3680	Pipe / Pipe (U)	Closed 	\Device\Afd	
+16:58:36.190	WerFault.exe	4236	7764	Image (U)	(3) 	c:\windows\system32\apphelp.dll	
+16:58:36.320	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\cryptsp.dll	
+16:58:36.320	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\rsaenh.dll	
+16:58:36.320	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\SHELL32.dll	
+16:58:36.320	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\shell32.dll	
+16:58:36.320	WerFault.exe	4236	7764	Ipc (U)	(2) 	\Sessions\1\BaseNamedObjects\windows_shell_global_counters	
+16:58:36.320	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\profapi.dll	
+16:58:36.320	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\profapi.dll	
+16:58:36.350	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\Setupapi.dll	
+16:58:36.350	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\CFGMGR32.dll	
+16:58:36.350	WerFault.exe	4236	7764	Ipc (D)	Open 	\KnownDlls\DEVOBJ.dll	
+16:58:36.350	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\powrprof.dll	
+16:58:36.350	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\setupapi.dll	
+16:58:36.350	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\cfgmgr32.dll	
+16:58:36.350	WerFault.exe	4236	7764	Image (U)		c:\windows\system32\devobj.dll	
+16:58:36.450	WerFault.exe	4236	7764	WinClass (U)		TreeviewToolTipClass	
+16:58:36.450	PotPlayerMini64.exe	7236	1328	Debug (U)	Trace 		CreateProcess: C:\Windows\System32\WerFault.exe (C:\Windows\system32\WerFault.exe -u -p 7236 -s 328); err=0
